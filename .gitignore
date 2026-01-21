@@ -2,4 +2,7 @@
 node_modules
 .tmp
 npm-debug.log
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> e1a3c851cd551be31c39f3dfafab80c02e2b21d0
